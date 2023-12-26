@@ -1,4 +1,4 @@
-- 👋 Hi, I’m MostafaRagab
+- 👋 Hi, I’m Mostafa Ragab
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning frontend
 - 💞️ I’m looking to collaborate on your purpose oin electrical engineering or web development
